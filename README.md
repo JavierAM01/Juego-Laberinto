@@ -9,7 +9,7 @@ Se trata de un personaje *User* que se mueve por un mapa y tiene que eliminar a 
 
 ## Versión 1
 
-- Los personajes siguen siendo clases creadas desde cero, pero para el juego y el display se crean clases maás organizadas.
+- Los personajes siguen siendo clases creadas desde cero, pero para el juego y el display se crean clases más organizadas.
 
 ## Versión 2
 
