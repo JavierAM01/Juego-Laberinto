@@ -1,4 +1,4 @@
-# Juego-Laberinto-Versiones
+# Laberinto
 
 Se trata de un personaje *User* que se mueve por un mapa y tiene que eliminar a dos tipos de enemigos. Las serpientes *Snake* y los fantasmas *Killer*. Cada uno tiene su vida correspondiente. El personaje dispara con el *espacio* y se mueve con las teclas *4,5,6,8*. 
 
